@@ -11,36 +11,50 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Data Scientist Nanodegree
+  timeline: "Feb 2023 - Jun 2023"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Udacity
+    url: https://www.udacity.com
+  courseOverview: Built effective machine learning models, ran ETL and NLP pipelines, designed experiments and analyzed A/B test results, built recommendation systems, and deployed solutions to the cloud with industry-aligned projects
+  certificateURL: "https://graduation.udacity.com/confirm/e/8fac6114-07b2-11ed-b7c2-ab08f8c99362"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: AI Programming with Python Nanodegree
+  timeline: "Sep 2020 - Dec 2020"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
+    name: Udacity
+    url: https://www.udacity.com
+  courseOverview: "I used Python to solve complex problems quickly, learnt all the key tools for working with data in Python, learnt foundational math needed for AI success — vectors, calculus essentials, linear transformations, and matrices—as well as the linear algebra behind neural networks, how to use PyTorch for deep learning, and finally created an image classifier and converted it into a python application."
+  certificateURL: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/21d5bfd9-d419-48de-b8ad-815e682bdca2.pdf"
+
+- name: AWS Machine Learning Foundations
+  timeline: "Aug 2021 - Oct 2021"
+  organization:
+    name: Udacity
+    url: https://www.udacity.com
+  courseOverview: Learnt how to prepare, build, train, and deploy high-quality machine learning (ML) models quickly with Amazon SageMaker and learny object-oriented programming best practices. 
+  certificateURL: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/9e1c5fa9-8fbd-4d20-8411-5327ecb90b00.pdf"
+
+- name: Machine Learning - Stanford University
+  timeline: "Sep 2016 - Dec 2016"
+  organization:
+    name: Coursera (Course by Andrew Ng)
+    url: https://www.coursera.com
   courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
-
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
-
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+  certificateURL: "https://www.coursera.org/account/accomplishments/verify/D7Y5RPX5KEAE/"
  
+- name: Tableau 9
+  timeline: "Sep 2016 - Dec 2016"
+  organization:
+    name: Udemy (Course by Kirill Eremenko from SuperDataScience Team)
+    url: https://www.udemy.com
+  courseOverview: Learnt data visualization through Tableau 2022 and used it's features to discover data patterns such as customer purchase behavior, sales trends, or production bottlenecks and present data quickly and beautifully.
+  certificateURL: "https://www.udemy.com/certificate/UC-GPP1EKFX/"
 
+- name: SQL (Advanced) Certificate
+  timeline: "Aug 2022"
+  organization:
+    name: HackerRank
+    url: https://www.hackerrank.com
+  courseOverview: Cleared advanced SQL assessment which covers topics like query optimization, data modeling, Indexing, window functions, and pivots in SQL.
+  certificateURL: "https://www.hackerrank.com/certificates/f37a0cfbb3bb/"

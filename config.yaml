@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://anudeep.github.io
 
 languageCode: en-us
-title: "John's Blog"
+title: "Anudeep's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -19,13 +19,13 @@ module:
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageName: English
-    weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+#languages:
+#  en:
+#    languageName: English
+#    weight: 1
+#  bn:
+#    languageName: বাংলা
+#    weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -54,17 +54,17 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/shifaaz-shamoon-oR0uERTVyD0-unsplash.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/site/main-logo.png
-    inverted: /images/site/inverted-logo.png
-    favicon: /images/site/favicon.png
+    main: /images/site/av-main-logo.png
+    inverted: /images/site/av-main-logo.png
+    favicon: /images/site/av-main-logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/anudeepvanjavakam1/anudeep.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -80,7 +80,7 @@ params:
       enable: true
       services:
         darkreader:
-          defaultColorScheme: system # options are 'system', 'dark', 'light'
+          defaultColorScheme: dark # options are 'system', 'dark', 'light'
           fixes:
             invert: ['img[src$=".svg"]'] # inverts svg colors.
           theme:
@@ -94,7 +94,7 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       # Share post on different social media
       shareButtons:
         facebook: true
@@ -110,7 +110,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -151,14 +151,14 @@ params:
       enabled: true
       services:
         # Google Analytics
-        google:
-          id: G-H4LBG7NDFZ
+        #google:
+        #  id: G-H4LBG7NDFZ
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
         # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
+         goatCounter:
+           code: <script data-goatcounter="https://anudeepportfolio.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
@@ -262,7 +262,7 @@ params:
 
   # Provide footer configuration.
   footer:
-    enable: true
+    enable: false
     # You can provide your custom footer template using this option.
     # Put your template in "layouts/partials" folder of your repo.
     template: footer.html
@@ -281,7 +281,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
+      enable: false
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
