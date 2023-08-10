@@ -1,4 +1,4 @@
-module github.com/anudeepvanjavakam1/anudeep.github.io
+module github.com/anudeepvanjavakam1/anudeepvanjavakam1.github.io
 
 go 1.19
 
