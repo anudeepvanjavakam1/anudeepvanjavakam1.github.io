@@ -1,4 +1,4 @@
-baseURL: https://anudeep.github.io
+baseURL: https://anudeepvanjavakam1.github.io
 
 languageCode: en-us
 title: "Anudeep's Portfolio"
@@ -64,7 +64,7 @@ params:
     favicon: /images/site/av-main-logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/anudeepvanjavakam1/anudeep.github.io
+  gitRepo: https://github.com/anudeepvanjavakam1/anudeepvanjavakam1.github.io
   # Default branch of your Git repo
   gitBranch: main
 
