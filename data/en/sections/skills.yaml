@@ -13,7 +13,7 @@ section:
 skills:
 - name: SQL
   logo: /images/sections/skills/databasestorage.png
-  summary: "Advanced command of SQL, leveraging its capabilities to efficiently manage, query, and analyze complex datasets. Proficient in crafting optimized SQL queries for data extraction, transformation, and reporting. Skilled in database design principles, normalization, and indexing to ensure data integrity and system performance. Experienced in working with various relational database management systems (RDBMS) to provide valuable insights and support informed decision-making."
+  summary: "Advanced command of SQL, leveraging its capabilities to efficiently manage, query, and analyze complex datasets. Proficient in crafting optimized SQL queries and skilled in database design principles, normalization, and indexing to ensure data integrity and system performance"
   #url: "https://www.flaticon.com/free-icons/database"
 
 - name: R
@@ -28,12 +28,12 @@ skills:
 
 - name: Data Analysis
   logo: /images/sections/skills/analytics.png
-  summary: "Experienced data analyst with a proven track record of extracting actionable insights from complex datasets. Proficient in data cleaning, exploration, and visualization techniques to uncover trends and patterns. Skilled in statistical analysis, hypothesis testing, and predictive modeling, enabling data-driven decision-making. Adept at translating data findings into clear, concise reports and presentations for stakeholders."
+  summary: "Experienced data analyst with a proven track record of extracting actionable insights from complex datasets. Skilled in statistical analysis, hypothesis testing, and predictive modeling. Adept at translating data findings into clear, concise reports and presentations for stakeholders."
   #url: "https://www.flaticon.com/free-icons/data"
 
 - name: Data Visualization
   logo: /images/sections/skills/dataviz.png
-  summary: "Proficient data visualization specialist skilled in transforming complex data sets into clear, compelling visual narratives. Expertise in using visualization tools such as Tableau, Power BI, and libraries such as plotly, seaborn, bokeh, matplotlib, ggplot2, highcharter, leaflet to distill insights, aid decision-making, and enhance communication. Demonstrated ability to design informative charts, graphs, and interactive dashboards that drive understanding and engagement."
+  summary: "Proficient data visualization specialist transforming intricate data into compelling visuals. Proficient in Tableau, Power BI, and libraries like plotly, seaborn, ggplot2, highcharter, leaflet. Crafted informative charts, graphs, and interactive dashboards to drive understanding and engagement."
   #url: "https://www.flaticon.com/free-icons/data-visualization"
 
 - name: Git
