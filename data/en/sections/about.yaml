@@ -44,14 +44,14 @@ socialLinks:
   icon: "fab fa-twitter"
   url: "https://twitter.com/AnudeepVanjavak"
 
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://medium.com/@anudeepvanjavakam"
+  #rel: "me noopener"
+
 #- name: Facebook
 #  icon: "fab fa-facebook"
 #  url: "#"
-
-#- name: Mastadon
-#  icon: "fab fa-mastodon"
-#  url: "#"
-#  rel: "me noopener"
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.

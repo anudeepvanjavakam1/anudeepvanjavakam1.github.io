@@ -25,7 +25,7 @@ projects:
   logo: /images/sections/projects/tag_best_products_on_reddit.PNG
   role: Owner
   #timeline: "March 2018 - Present"
-  repo: https://github.com/anudeepvanjavakam1/lit_or_not_on_reddit # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: https://github.com/anudeepvanjavakam1/lit_or_not_on_reddit # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://litornot.streamlit.app/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Use this app to find out 1) the best products or services 2) whether a product is worth buying based on Reddit. 
   tags: ["Named Entity Recognition (NER)", "Sentiment Analysis", "NLP", "streamlit", "distil BERT", "Hugging Face Transformers", "python"]
