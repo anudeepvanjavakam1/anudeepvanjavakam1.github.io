@@ -6,65 +6,71 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Moulton Niguel Water District
-    url: "https://www.mnwd.com"
-    location: Laguna Hills, CA, USA
-    # company overview
-    overview: MNWD delivers high-quality drinking water, recycled water and wastewater services to more than 170,000 customers in Orange County, CA and has been named a top workplace in Orange County for four years in a row!
-  positions:
-  - designation: Senior Data Analyst
-    start: Aug 2020
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Led short and long-range financial planning with senior management reducing 40% of manual processes resulting in AAA rating (Fitch, S&P) and GFOA Award for the company
-    - Built and deployed R shiny apps leading to a reduction in customer bill and rebate inquiries by 22%
-    - Strengthened financial reporting tools to monitor 100MM+ investments and cash flow trends saving almost $2.5M annually
-    - Implemented a python-based anomaly detection model to detect (up to 3 months early) meters at risk of failure resulting in savings of $44K per month for customers
-    - Deployed an R-Shiny tool to analyze user behavior and manage a customer acquisition and retention budget of $350K
-    - Coordinated with IT to add database indices on SQL Server that resulted in a 36% reduction in app load times and query processing times creating a better user experience for staff (internal reporting) and customers (website apps)
-    - Influenced billing policies for 32 agencies in California by developing an R-Shiny app that generates correlation insights between rate change, surcharge, revenue, and customer bills
-  - designation: Data Analyst
-    start: Mar 2017
-    end: Aug 2020
-    responsibilities:
-    - Improved the efficiency of annual financial reporting by 85% using an Excel model, achieving 'Certificate of Achievement for Excellence in Financial Reporting' GFOA award
-    - Automated rate-bill verification process resulting in 86% reduction in manual effort while maintaining a 100% billing accuracy
-    - Built a monitoring system that alerts discrepancy between the enterprise billing system and vendor portal saving $68K
-  - designation: Data Science Intern
-    start: Aug 2016
-    end: Mar 2017
-    responsibilities:
-    - Created ‘Water Use and Efficiency Charts’ to track critical metrics, customer efficiency and engagement trends, and funds spent on programs to aid data-driven policy decisions
+  - company:
+      name: Moulton Niguel Water District
+      url: "https://www.mnwd.com"
+      location: Laguna Hills, CA, USA
+      # company overview
+      overview: MNWD delivers high-quality drinking water, recycled water and wastewater services to more than 170,000 customers in Orange County, CA and has been named a top workplace in Orange County for four years in a row!
+    positions:
+      - designation: Principal Data Analyst
+        start: Jun 2025
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        responsibilities:
+          - Led 217M+ O&M and CIP budgeting analytics lifecycle, building executive-grade financial models, automating QA/QC tools that cut 3+ hours per iteration, and earning Board recognition in achieving GFOA Triple Crown Award.
+          - Built end-to-end ETL pipelines ingesting incremental energy usage & billing data (Utility API → AWS Postgres), powering $3M+ energy forecasting, peak/off-peak optimization, and org-wide BI tools.
+          - Engineered automated flat-file ETL framework for customer portal (180K+ users) upgrade (v8→v11), delivering daily data syncs from ERP SQL Server and saving $65K in integration consulting.
+          - Co-built and launched a Power BI Budget Tracker, integrating real-time ERP data to eliminate manual PDF monitoring and empower 45+ departments with self-service financial insights visibility — enhancing accountability, saving hours of effort, and improving budget management efficiency.
+          - Designed and deployed an interactive dashboard (R, SQL, Posit Connect) that automated month-end GL allocation unbilled receivables by pulling live data, calculating fund splits using dynamic parameters, and eliminating 40+ hours of manual accounting effort per close cycle.
+      - designation: Senior Data Analyst
+        start: Aug 2020
+        end: May 2025
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Led short and long-range financial planning with senior management reducing 40% of manual processes resulting in AAA rating (Fitch, S&P) and GFOA Award for the company
+          - Built and deployed R shiny apps leading to a reduction in customer bill and rebate inquiries by 22%
+          - Strengthened financial reporting tools to monitor 100MM+ investments and cash flow trends saving almost $2.5M annually
+          - Implemented a python-based anomaly detection model to detect (up to 3 months early) meters at risk of failure resulting in savings of $44K per month for customers
+          - Deployed an R-Shiny tool to analyze user behavior and manage a customer acquisition and retention budget of $350K
+          - Coordinated with IT to add database indices on SQL Server that resulted in a 36% reduction in app load times and query processing times creating a better user experience for staff (internal reporting) and customers (website apps)
+          - Influenced billing policies for 32 agencies in California by developing an R-Shiny app that generates correlation insights between rate change, surcharge, revenue, and customer bills
+      - designation: Data Analyst
+        start: Mar 2017
+        end: Aug 2020
+        responsibilities:
+          - Improved the efficiency of annual financial reporting by 85% using an Excel model, achieving 'Certificate of Achievement for Excellence in Financial Reporting' GFOA award
+          - Automated rate-bill verification process resulting in 86% reduction in manual effort while maintaining a 100% billing accuracy
+          - Built a monitoring system that alerts discrepancy between the enterprise billing system and vendor portal saving $68K
+      - designation: Data Science Intern
+        start: Aug 2016
+        end: Mar 2017
+        responsibilities:
+          - Created ‘Water Use and Efficiency Charts’ to track critical metrics, customer efficiency and engagement trends, and funds spent on programs to aid data-driven policy decisions
 
-- company:
-    name: Arizona State University - W.P. Carey Dept. of Information Systems
-    url: "https://wpcarey.asu.edu/information-systems-degrees"
-    location: Tempe, AZ, US
-    overview: Contributed to the performance testing of machine learning algorithms across platforms such as Microsoft Azure ML, IBM SPSS, R to determine the trade offs of each platform for multi class problems
-  positions:
-  - designation: Research Associate - Data Analytics
-    start: Jun 2015
-    end: Jan 2016
+  - company:
+      name: Arizona State University - W.P. Carey Dept. of Information Systems
+      url: "https://wpcarey.asu.edu/information-systems-degrees"
+      location: Tempe, AZ, US
+      overview: Contributed to the performance testing of machine learning algorithms across platforms such as Microsoft Azure ML, IBM SPSS, R to determine the trade offs of each platform for multi class problems
+    positions:
+      - designation: Research Associate - Data Analytics
+        start: Jun 2015
+        end: Jan 2016
 
-
-- company:
-    name: Wipro Ltd.
-    url: "https://www.wipro.com"
-    location: Hyderabad, India
-    overview: Wipro is a global IT, consulting, and business services leader, leveraging cognitive computing, automation, cloud, analytics, and emerging tech for client success
-  positions:
-  - designation: Project Engineer
-    start: Dec 2013
-    end: May 2015
-    responsibilities:
-    - Supported energy and utilities project for the largest water and gas distribution company in UK
-    - Mastered Data Migration techniques to handle millions of business-related data records, enabling smooth transition of data across multiple platforms – using SAP ABAP, LSMW, EMIGALL, MS-Excel
-
-
+  - company:
+      name: Wipro Ltd.
+      url: "https://www.wipro.com"
+      location: Hyderabad, India
+      overview: Wipro is a global IT, consulting, and business services leader, leveraging cognitive computing, automation, cloud, analytics, and emerging tech for client success
+    positions:
+      - designation: Project Engineer
+        start: Dec 2013
+        end: May 2015
+        responsibilities:
+          - Supported energy and utilities project for the largest water and gas distribution company in UK
+          - Mastered Data Migration techniques to handle millions of business-related data records, enabling smooth transition of data across multiple platforms – using SAP ABAP, LSMW, EMIGALL, MS-Excel

@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Scientist
+designation: Principal/Lead Data Analyst, Data Scientist
 # your company information
 company:
   name: Moulton Niguel Water District
@@ -19,35 +19,40 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate data scientist with over 7 years of experience in developing data products that enhance systems and processes. I provide impactful insights through advanced analytics and thrive on helping people make informed decisions.'
+summary: "I’m a Principal Data Analyst with 10+ years of experience designing and scaling full-stack analytics solutions that drive business impact. My journey has taken me from crunching numbers to building modern data platforms, leading projects that integrate data, ML, and automation to solve high-stakes business problems. Over the years, I've
+
+- Built end-to-end ETL pipelines and automated reporting tools using SQL, Python, R, Power BI, dbt, ML, AI models, and cloud platforms (AWS, GCP).
+- Led analytics modernization for enterprise systems—saving thousands of hours, reducing vendor dependency, and enabling data-driven decision-making.
+- Translated messy, siloed datasets into high-value insights used by executives, finance teams, and operations leaders.
+- Been a key driver of award-winning budgeting, billing, water demand & energy forecasting systems at a major California utility."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "anudeepvanjavakam@gmail.com"
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "anudeepvanjavakam@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/anudeepvanjavakam1"
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/anudeepvanjavakam1"
 
-#- name: Stackoverflow
-#  icon: "fab fa-stack-overflow"
-#  url: "#"
+  #- name: Stackoverflow
+  #  icon: "fab fa-stack-overflow"
+  #  url: "#"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/anudeepvanjavakam"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/anudeepvanjavakam"
 
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "https://twitter.com/AnudeepVanjavak"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/AnudeepVanjavak"
 
-- name: Medium
-  icon: "fab fa-medium"
-  url: "https://medium.com/@anudeepvanjavakam"
-  #rel: "me noopener"
+  - name: Medium
+    icon: "fab fa-medium"
+    url: "https://medium.com/@anudeepvanjavakam"
+    #rel: "me noopener"
 
 #- name: Facebook
 #  icon: "fab fa-facebook"
@@ -56,43 +61,42 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
-  url: "files/Resume_AV_Data_Scientist.pdf"
+  - title: "My Resume"
+    url: "files/Resume_AV_Data_Scientist.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: certification
-  name: Certified Data Scientist Nanodegree
-  url: "https://graduation.udacity.com/confirm/e/8fac6114-07b2-11ed-b7c2-ab08f8c99362"
-  badge: "files/udacity_ds_nanodegree.PNG"
+  - type: certification
+    name: Certified Data Scientist Nanodegree
+    url: "https://graduation.udacity.com/confirm/e/8fac6114-07b2-11ed-b7c2-ab08f8c99362"
+    badge: "files/udacity_ds_nanodegree.PNG"
 
-- type: certification
-  name: AI Programming with Python Nanodegree
-  url: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/21d5bfd9-d419-48de-b8ad-815e682bdca2.pdf"
-  badge: "files/Udacity_AI.PNG"
+  - type: certification
+    name: AI Programming with Python Nanodegree
+    url: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/21d5bfd9-d419-48de-b8ad-815e682bdca2.pdf"
+    badge: "files/Udacity_AI.PNG"
 
-- type: certification
-  name: AWS Machine Learning Foundations
-  url: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/9e1c5fa9-8fbd-4d20-8411-5327ecb90b00.pdf"
-  badge: "files/Udacity_ML_AWS.PNG"
+  - type: certification
+    name: AWS Machine Learning Foundations
+    url: "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/9e1c5fa9-8fbd-4d20-8411-5327ecb90b00.pdf"
+    badge: "files/Udacity_ML_AWS.PNG"
 
-- type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  - type: soft-skill-indicator
+    name: Leadership
+    percentage: 85
+    color: blue
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: yellow
+  - type: soft-skill-indicator
+    name: Team Work
+    percentage: 90
+    color: yellow
 
-- type: soft-skill-indicator
-  name: Data Mining and Data Wrangling
-  percentage: 85
-  color: orange
-
+  - type: soft-skill-indicator
+    name: Data Mining and Data Wrangling
+    percentage: 85
+    color: orange
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
 #   name: Example 1
